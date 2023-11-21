@@ -6,3 +6,4 @@
 ### References
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 2. [Vim Cheatsheet](https://vim.rtorr.com/)
+3. [Solve img not showing up in the issue section](https://blog.csdn.net/dingheshi5090/article/details/102195402)
