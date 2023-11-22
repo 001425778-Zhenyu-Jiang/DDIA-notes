@@ -43,10 +43,9 @@ cat ~/.ssh/id_rsa.pub
 git clone "SSH link"
 ```
 
-![Untitled](workflow%20101%20bcee9989797847d384862918bf12dfc8/Untitled.png)
 
-1. Create a issue on the issue section on github, and **relink it on the main markdown file**, put all used screenshots of figures in DDIA to the img folder
-2. my commonly used git operations:
+2. Create a issue on the issue section on github, and **relink it on the main markdown file**, put all used screenshots of figures in DDIA to the img folder
+3. my commonly used git operations:
 
       3.1 check if all the things up-to-date
 
