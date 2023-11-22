@@ -45,6 +45,7 @@ git clone "SSH link"
 
 
 2. Create a issue on the issue section on github, and **relink it on the main markdown file**, put all used screenshots of figures in DDIA to the img folder
+
 3. my commonly used git operations:
 
       3.1 check if all the things up-to-date
@@ -79,4 +80,4 @@ git push
 
 After 3.5 finished, use 3.2 command to check, should get already up-to-date message.
 
-1. when you want to quote the images you uploaded in the img folder, remember to change the DDIA-notes/**blob**/main/ in the link to DDIA-notes/**raw**/main/ after directly copying from browser.
+4. when you want to quote the images you uploaded in the img folder, remember to change the DDIA-notes/**blob**/main/ in the link to DDIA-notes/**raw**/main/ after directly copying from browser.
