@@ -48,31 +48,31 @@ git clone "SSH link"
 
 3. my commonly used git operations:
 
-      3.1 check if all the things up-to-date
+3.1 check if all the things up-to-date
 
 ```jsx
 git pull
 ```
 
-      3.2 check the status of all files, if it’s red, meaning not committed
+3.2 check the status of all files, if it’s red, meaning not committed
 
 ```jsx
 git status
 ```
 
-      3.3 add all changes to staging area
+3.3 add all changes to staging area
 
 ```jsx
 git add -A
 ```
 
-      3.4 commit all changes to local repo, with a comment in “”
+3.4 commit all changes to local repo, with a comment in “”
 
 ```jsx
 git commit -m "your comment"
 ```
 
-     3.5 push all changes to the remote repo
+3.5 push all changes to the remote repo
 
 ```jsx
 git push
