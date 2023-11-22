@@ -48,36 +48,34 @@ git clone "SSH link"
 
 3. my commonly used git operations:
 
-3.1 check if all the things up-to-date
+  - check if all the things up-to-date
 
 ```jsx
 git pull
 ```
 
-3.2 check the status of all files, if it’s red, meaning not committed
+  - check the status of all files, if it’s red, meaning not committed
 
 ```jsx
 git status
 ```
 
-3.3 add all changes to staging area
+  - add all changes to staging area
 
 ```jsx
 git add -A
 ```
 
-3.4 commit all changes to local repo, with a comment in “”
+  - commit all changes to local repo, with a comment in “”
 
 ```jsx
 git commit -m "your comment"
 ```
 
-3.5 push all changes to the remote repo
+  - push all changes to the remote repo
 
 ```jsx
 git push
 ```
-
-After 3.5 finished, use 3.2 command to check, should get already up-to-date message.
 
 4. when you want to quote the images you uploaded in the img folder, remember to change the DDIA-notes/**blob**/main/ in the link to DDIA-notes/**raw**/main/ after directly copying from browser.
