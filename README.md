@@ -3,6 +3,8 @@
 
 #### [Chapter 5. Replication](https://github.com/Enele2/DDIA-notes/issues/2)
 #### [Chapter 6. Partitioning](https://github.com/Enele2/DDIA-notes/issues/1)
+#### [Chapter 10. Batch Processing](https://github.com/Enele2/DDIA-notes/issues/4)
+
 
 ### References
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
